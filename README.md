@@ -67,9 +67,9 @@ Click on any icon to download it.
 | kodi-color | <img src="color/kodi-color.png" width="54"> |
 | myq-color | <img src="color/myq-color.jpg" width="54"> |
 | nvidia-color | <img src="color/nvidia-color.png" width="54"> |
-| pihole-color | <img src="color/pihole_color.png" width="54"> |
+| pihole-color | <img src="color/pihole-color.png" width="54"> |
 | plex-color | <img src="color/plex-color.png" width="54"> |
-| raspberry_pi-color | <img src="color/raspberry_pi-color.png" width="54"> |
+| raspberry-pi-color | <img src="color/raspberry_pi-color.png" width="54"> |
 | roku-color | <img src="color/roku-color.png" width="54"> |
 
 
