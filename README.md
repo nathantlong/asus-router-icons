@@ -34,6 +34,7 @@ Click on any icon to download it.
 | nintendo_switch | <img src="standard/nintendo_switch.png" width="54"> |
 | nvidia | <img src="standard/nvidia.png" width="54"> |
 | oven | <img src="standard/oven.png" width="54"> |
+| pihole | <img src="standard/pihole.png" width="54"> |
 | playstation | <img src="standard/playstation.png" width="54"> |
 | plug | <img src="standard/plug.png" width="54"> |
 | printer | <img src="standard/printer.png" width="54"> |
@@ -66,6 +67,7 @@ Click on any icon to download it.
 | kodi-color | <img src="color/kodi-color.png" width="54"> |
 | myq-color | <img src="color/myq-color.jpg" width="54"> |
 | nvidia-color | <img src="color/nvidia-color.png" width="54"> |
+| pihole-color | <img src="color/pihole_color.png" width="54"> |
 | plex-color | <img src="color/plex-color.png" width="54"> |
 | raspberry_pi-color | <img src="color/raspberry_pi-color.png" width="54"> |
 | roku-color | <img src="color/roku-color.png" width="54"> |
